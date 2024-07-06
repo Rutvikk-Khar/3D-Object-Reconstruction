@@ -1,0 +1,174 @@
+Reading image info from disk...
+Directory: 02691156, # of models: 3236
+Directory: 02828884, # of models: 1452
+Directory: 02933112, # of models: 1257
+Directory: 02958343, # of models: 5996
+Directory: 03001627, # of models: 5422
+Directory: 03211117, # of models: 876
+Directory: 03636649, # of models: 1854
+Directory: 03691459, # of models: 1294
+Directory: 04090263, # of models: 1898
+Directory: 04256520, # of models: 2538
+Directory: 04379243, # of models: 6807
+Directory: 04401088, # of models: 841
+Directory: 04530566, # of models: 1551
+Reading image info from disk...
+Directory: 02691156, # of models: 3236
+Directory: 02828884, # of models: 1452
+Directory: 02933112, # of models: 1257
+Directory: 02958343, # of models: 5996
+Directory: 03001627, # of models: 5422
+Directory: 03211117, # of models: 876
+Directory: 03636649, # of models: 1854
+Directory: 03691459, # of models: 1294
+Directory: 04090263, # of models: 1898
+Directory: 04256520, # of models: 2538
+Directory: 04379243, # of models: 6807
+Directory: 04401088, # of models: 841
+Directory: 04530566, # of models: 1551
+Reading the train image info took 7.03 seconds
+Reading image info from disk...
+Directory: 02691156, # of models: 809
+Directory: 02828884, # of models: 364
+Directory: 02933112, # of models: 315
+Directory: 02958343, # of models: 1500
+Directory: 03001627, # of models: 1356
+Directory: 03211117, # of models: 219
+Directory: 03636649, # of models: 464
+Directory: 03691459, # of models: 324
+Directory: 04090263, # of models: 475
+Directory: 04256520, # of models: 635
+Directory: 04379243, # of models: 1702
+Directory: 04401088, # of models: 211
+Directory: 04530566, # of models: 388
+Reading the val image info took 4.66 seconds
+total train models: 35022; total train batches: 1459
+total val models: 8762; total val batches: 365
+Reading image info from disk...
+Directory: 02691156, # of models: 3236
+Directory: 02828884, # of models: 1452
+Directory: 02933112, # of models: 1257
+Directory: 02958343, # of models: 5996
+Directory: 03001627, # of models: 5422
+Directory: 03211117, # of models: 876
+Directory: 03636649, # of models: 1854
+Directory: 03691459, # of models: 1294
+Directory: 04090263, # of models: 1898
+Directory: 04256520, # of models: 2538
+Directory: 04379243, # of models: 6807
+Directory: 04401088, # of models: 841
+Directory: 04530566, # of models: 1551
+Reading the train image info took 15.82 seconds
+Reading image info from disk...
+Directory: 02691156, # of models: 809
+Directory: 02828884, # of models: 364
+Directory: 02933112, # of models: 315
+Directory: 02958343, # of models: 1500
+Directory: 03001627, # of models: 1356
+Directory: 03211117, # of models: 219
+Directory: 03636649, # of models: 464
+Directory: 03691459, # of models: 324
+Directory: 04090263, # of models: 475
+Directory: 04256520, # of models: 635
+Directory: 04379243, # of models: 1702
+Directory: 04401088, # of models: 211
+Directory: 04530566, # of models: 388
+Reading the val image info took 3.68 seconds
+total train models: 35022; total train batches: 1459
+total val models: 8762; total val batches: 365
+Reading image info from disk...
+Directory: 02691156, # of models: 3236
+Directory: 02828884, # of models: 1452
+Directory: 02933112, # of models: 1257
+Directory: 02958343, # of models: 5996
+Directory: 03001627, # of models: 5422
+Directory: 03211117, # of models: 876
+Directory: 03636649, # of models: 1854
+Directory: 03691459, # of models: 1294
+Directory: 04090263, # of models: 1898
+Directory: 04256520, # of models: 2538
+Directory: 04379243, # of models: 6807
+Directory: 04401088, # of models: 841
+Directory: 04530566, # of models: 1551
+Reading the train image info took 26.2 seconds
+Reading image info from disk...
+Directory: 02691156, # of models: 809
+Directory: 02828884, # of models: 364
+Directory: 02933112, # of models: 315
+Directory: 02958343, # of models: 1500
+Directory: 03001627, # of models: 1356
+Directory: 03211117, # of models: 219
+Directory: 03636649, # of models: 464
+Directory: 03691459, # of models: 324
+Directory: 04090263, # of models: 475
+Directory: 04256520, # of models: 635
+Directory: 04379243, # of models: 1702
+Directory: 04401088, # of models: 211
+Directory: 04530566, # of models: 388
+Reading the val image info took 5.18 seconds
+total train models: 35022; total train batches: 1459
+total val models: 8762; total val batches: 365
+Reading image info from disk...
+Directory: 02691156, # of models: 3236
+Directory: 02828884, # of models: 1452
+Directory: 02933112, # of models: 1257
+Directory: 02958343, # of models: 5996
+Directory: 03001627, # of models: 5422
+Directory: 03211117, # of models: 876
+Directory: 03636649, # of models: 1854
+Directory: 03691459, # of models: 1294
+Directory: 04090263, # of models: 1898
+Directory: 04256520, # of models: 2538
+Directory: 04379243, # of models: 6807
+Directory: 04401088, # of models: 841
+Directory: 04530566, # of models: 1551
+Reading the train image info took 6.72 seconds
+Reading image info from disk...
+Directory: 02691156, # of models: 809
+Directory: 02828884, # of models: 364
+Directory: 02933112, # of models: 315
+Directory: 02958343, # of models: 1500
+Directory: 03001627, # of models: 1356
+Directory: 03211117, # of models: 219
+Directory: 03636649, # of models: 464
+Directory: 03691459, # of models: 324
+Directory: 04090263, # of models: 475
+Directory: 04256520, # of models: 635
+Directory: 04379243, # of models: 1702
+Directory: 04401088, # of models: 211
+Directory: 04530566, # of models: 388
+Reading the val image info took 2.44 seconds
+total train models: 35022; total train batches: 1459
+total val models: 8762; total val batches: 365
+Reading image info from disk...
+Directory: 02691156, # of models: 3236
+Directory: 02828884, # of models: 1452
+Directory: 02933112, # of models: 1257
+Directory: 02958343, # of models: 5996
+Directory: 03001627, # of models: 5422
+Directory: 03211117, # of models: 876
+Directory: 03636649, # of models: 1854
+Directory: 03691459, # of models: 1294
+Directory: 04090263, # of models: 1898
+Directory: 04256520, # of models: 2538
+Directory: 04379243, # of models: 6807
+Directory: 04401088, # of models: 841
+Directory: 04530566, # of models: 1551
+Reading the train image info took 31.04 seconds
+Reading image info from disk...
+Directory: 02691156, # of models: 809
+Directory: 02828884, # of models: 364
+Directory: 02933112, # of models: 315
+Directory: 02958343, # of models: 1500
+Directory: 03001627, # of models: 1356
+Directory: 03211117, # of models: 219
+Directory: 03636649, # of models: 464
+Directory: 03691459, # of models: 324
+Directory: 04090263, # of models: 475
+Directory: 04256520, # of models: 635
+Directory: 04379243, # of models: 1702
+Directory: 04401088, # of models: 211
+Directory: 04530566, # of models: 388
+Reading the val image info took 5.59 seconds
+total train models: 35022; total train batches: 1459
+total val models: 8762; total val batches: 365
