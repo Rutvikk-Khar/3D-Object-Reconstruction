@@ -35,9 +35,6 @@ The demo code takes 3 images of the same chair and generates the following recon
 |:---------------:|:---------------:|:---------------:|:-----------------------------------------------------------------------------------------:|
 | ![0](https://github.com/Rutvikk-Khar/3D-Object-Reconstruction/assets/67324049/41ff9d06-4a7e-4ee0-bc7c-8f6b1f4050c0)| ![1](https://github.com/Rutvikk-Khar/3D-Object-Reconstruction/assets/67324049/87f48b03-6d17-4b7e-b7ef-4be7d51b512a)|![2](https://github.com/Rutvikk-Khar/3D-Object-Reconstruction/assets/67324049/658b74c4-1136-4b22-b709-67e4cf12a713)|![pred](https://github.com/Rutvikk-Khar/3D-Object-Reconstruction/assets/67324049/7dce4a77-3d87-43e2-910b-cfa6b642026c)|
 
-MeshLabs Output:
-![pred](https://github.com/Rutvikk-Khar/3D-Object-Reconstruction/assets/67324049/4234cc53-1394-4796-8e79-2b1d249604b3)
-
 ## Installation
 The code was tested with Python 3.6.
 - Download the repository
